@@ -55,9 +55,6 @@ cover/
 *.mo
 *.pot
 
-# QtUi
-*.ui
-
 # Django stuff:
 *.log
 local_settings.py
